@@ -1,0 +1,57 @@
+﻿body {
+    background-image:url(../img/escheresque_ste.png);
+    background-repeat:repeat-x repeat-y;
+}
+.tum{
+    width:100%;
+    height:auto;
+    font-family:'Century Gothic';
+    color:#808080;
+
+}
+*{
+    margin:0;
+    padding:0;
+}
+    .tum .tablo{
+        width:100%;
+        text-align:right;
+        float:right;
+        vertical-align:top;
+         
+    }
+    .tum .navi{
+        width:90%;
+        margin:0 auto;
+        text-align:center;
+    }
+    .tum .top{
+        width:100%;
+    }
+    .tum .icerik{
+        width:90%;
+        height:auto;
+        margin:0 auto;
+        color:white;
+        text-align:center;
+    }
+    .tum .footer{
+        width:90%;
+        height:auto;
+        text-align:center;
+        margin:0 auto;
+    }
+.banner{
+
+}
+    .banner:hover{
+       box-shadow: 4px 4px 4px maroon;
+    }
+.navigasyon{
+    width:100%;
+}
+.yorumlar{
+    width:100%;
+    text-align:left;
+    border-radius: 8px; -webkit-border-radius: 8px; -moz-border-radius: 8px;
+}
